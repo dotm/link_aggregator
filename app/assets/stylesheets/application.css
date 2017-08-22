@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+
+ body { max-width: 500px; word-wrap: break-word;}
+ a, a:link, a:visited, a:hover, a:active { color: rgb(255,100,100); }
